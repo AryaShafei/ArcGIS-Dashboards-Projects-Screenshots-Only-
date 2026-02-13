@@ -1,2 +1,5 @@
-These are two of the first maps and dashboards I created in my personal time, as an intern with the Royal Canadian Mounted Police.
-These are NON-CONFIDENTIAL as the data is open to the public. 
+This repository includes dashboards generated in
+ArcGIS Online. 
+
+These dashboards are generated with open,
+non-confidential public data. 
